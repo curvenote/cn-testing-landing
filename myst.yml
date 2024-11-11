@@ -1,0 +1,13 @@
+version: 1
+project:
+  title: Curvenote Test Venue
+  description: A test venue for Curvenote's next-generation article publishing infrastructure.
+  id: 2a758468-9dcf-4702-8749-f3a3345590bc
+  thumbnail: thumb.png
+  twitter: curvenote
+  github: https://github.com/curvenote
+site:
+  title: Curvenote Test Venue
+  nav: []
+  domains:
+    - curvenote-cn_testing_landing.curve.space
