@@ -6,8 +6,11 @@ project:
   thumbnail: thumb.png
   twitter: curvenote
   github: https://github.com/curvenote
+  plugins:
+    - ./plugins/magazine.mjs
 site:
   title: Curvenote Test Venue
   nav: []
+  template: https://github.com/curvenote-themes/spa-preview/archive/refs/tags/v0.2.3.zip
   domains:
     - curvenote-cn_testing_landing.curve.space
